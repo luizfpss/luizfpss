@@ -2,6 +2,8 @@
 <h3 align="center">I'm a software developer</h3>
 
 - 🌱 I’m currently learning **JavaScript and Node.js**
+- 🔭 I'm currently pursuing a degree in Software Engineering at PUC Minas.
+- 📫 How to reach me: devluizfpss@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
